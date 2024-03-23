@@ -10,9 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Education Company X Assignment
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+X Education sells online courses to industry professionals. X Education needs help in selecting the most 
+promising leads, i.e. the leads that are most likely to convert into paying customers. 
+The company needs a model wherein you a lead score is assigned to each of the leads such that the 
+customers with higher lead score have a higher conversion chance and the customers with lower lead 
+score have a lower conversion chance. 
+The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80
 
 ## Header 2
 
